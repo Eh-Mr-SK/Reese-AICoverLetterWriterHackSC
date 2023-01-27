@@ -150,7 +150,7 @@ export default function Home() {
               />
               <CompanyDescription
                 description={
-                  "It only takes 30 seconds to get a personalized cover letter highlighting your unique skills and experience using AI."
+                  "It only takes 60 seconds to get a personalized cover letter highlighting your unique skills and experience using AI."
                 }
               />
               <Button
